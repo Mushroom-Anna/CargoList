@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CargoList</string>
+    <!--Editor menu-->
+    <string name="save_item">Save</string>
+    <string name="order_item">Order</string>
+    <string name="delete_item">Delete</string>
+    <!--Delete dialog-->
+    <string name="delete_dialog">Do you want to DELETE item?</string>
+    <string name="dialog_delete">Delete</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>
